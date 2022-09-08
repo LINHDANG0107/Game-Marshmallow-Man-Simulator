@@ -1,2 +1,2 @@
 # Game-Marshmallow-Man-Simulator
-A demo game...
+Game Development with Unity, by LINGDANG
