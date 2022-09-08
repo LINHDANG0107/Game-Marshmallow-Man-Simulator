@@ -1,1 +1,0 @@
-Run file \Builds Game\Windows\Marshmallow Man Simulator.exe 
